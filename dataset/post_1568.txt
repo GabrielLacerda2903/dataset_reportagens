@@ -1,0 +1,4 @@
+conteudo: Jogo eletrônico, Cartola FC, aproxima os amantes do futebol
+autor: Joao Paulo Araujo
+assunto: jogos eletronicos
+publicado em: 4/2021

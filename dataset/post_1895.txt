@@ -1,0 +1,4 @@
+conteudo: Veja os destaques do Bom Dia Ceará
+autor: Thales Peres
+assunto: ceara
+publicado em: 6/2021

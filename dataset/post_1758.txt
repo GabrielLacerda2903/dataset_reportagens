@@ -1,0 +1,4 @@
+conteudo: Programa Sabores do Nordeste mostra gastronomia e belezas naturais da região
+autor: Tiago Calisto
+assunto: gastronomia
+publicado em: 1/2021

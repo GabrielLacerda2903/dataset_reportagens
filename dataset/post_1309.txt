@@ -1,0 +1,4 @@
+conteudo: Palmeiras vence partida pela Copa do Brasil
+autor: Hugo Sousa
+assunto: copa do brasil
+publicado em: 7/2021

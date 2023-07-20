@@ -1,0 +1,4 @@
+conteudo: Amapá é premiado na Feira de Ciência e Tecnologia da USP
+autor: Sebastião Silva
+assunto: ciencia e tecnologia
+publicado em: 7/2021

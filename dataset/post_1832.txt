@@ -1,0 +1,4 @@
+conteudo: Cataratas do Niágara é o ponto mais famoso que separa Estados Unidos e Canadá
+autor: Francisco Jose
+assunto: famosos
+publicado em: 6/2021

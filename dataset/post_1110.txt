@@ -1,0 +1,4 @@
+conteudo: 'É o Bicho': JAM 1 reúne fotos animais de estimação
+autor: Francisco Jose
+assunto: animais domesticos
+publicado em: 7/2021

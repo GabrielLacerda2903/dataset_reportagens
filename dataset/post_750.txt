@@ -1,0 +1,4 @@
+conteudo: Candidato falou sobre mobilidade urbana com promessa de bilhete único
+autor: Thales Peres
+assunto: mobilidade urbana
+publicado em: 4/2021

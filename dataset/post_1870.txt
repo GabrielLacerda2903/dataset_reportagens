@@ -1,0 +1,4 @@
+conteudo: 'Muito feliz com medalha', vibra Sofia, 8, que começou a andar de skate em BH inspirada em Rayssa Leal
+autor: Pedro Henrique
+assunto: famosos
+publicado em: 1/2021

@@ -1,0 +1,4 @@
+conteudo: Fila em busca de emprego em Guarapuava
+autor: Tiago Calisto
+assunto: emprego
+publicado em: 3/2021

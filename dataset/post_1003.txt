@@ -1,0 +1,4 @@
+conteudo: Veja vagas de emprego em Goiás
+autor: Sebastião Silva
+assunto: emprego
+publicado em: 5/2021

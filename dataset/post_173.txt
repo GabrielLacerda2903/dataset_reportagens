@@ -1,0 +1,4 @@
+conteudo: Começa a programação da semana nacional de ciência e tecnologia do IF-Sertão
+autor: Tiago Calisto
+assunto: ciencia e tecnologia
+publicado em: 4/2021

@@ -1,0 +1,4 @@
+conteudo: 'Casa Prática Pets': veja como lidar com animais domésticos com fobias
+autor: Tiago Calisto
+assunto: animais domesticos
+publicado em: 5/2021

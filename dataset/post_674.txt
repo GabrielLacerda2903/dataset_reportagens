@@ -1,0 +1,4 @@
+conteudo: 'Uma história tipicamente brasileira', diz aluna da UFJF que dirigiu e animou curta-metragem inspirado em vivência da tia
+autor: Maria Clara
+assunto: cultura brasileira
+publicado em: 1/2021

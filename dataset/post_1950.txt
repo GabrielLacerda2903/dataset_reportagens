@@ -1,0 +1,4 @@
+conteudo: 'Madres Paralelas', novo filme de Almodóvar, vai abrir o Festival de Veneza
+autor: Miguel Angelo
+assunto: filmes
+publicado em: 5/2021

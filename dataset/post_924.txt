@@ -1,0 +1,4 @@
+conteudo: Gerar emprego é desafio para empresas na pandemia
+autor: Joao Paulo Araujo
+assunto: emprego
+publicado em: 7/2021

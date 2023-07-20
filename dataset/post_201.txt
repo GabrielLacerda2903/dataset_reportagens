@@ -1,0 +1,4 @@
+conteudo: ‘A saída da crise econômica passa pela ciência e tecnologia’, diz presidente da Andifes
+autor: Douglas Santos
+assunto: ciencia e tecnologia
+publicado em: 5/2021

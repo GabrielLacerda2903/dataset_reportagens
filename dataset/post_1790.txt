@@ -1,0 +1,4 @@
+conteudo: Professor de gastronomia ensina como fazer receita de cuca tradicional para vender
+autor: Miguel Angelo
+assunto: gastronomia
+publicado em: 1/2021

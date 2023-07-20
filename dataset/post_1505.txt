@@ -1,0 +1,4 @@
+conteudo: 'Prévia' do PIB indica tombo de 9,73% na economia brasileira em abril, maior queda desde 2003
+autor: Teodora Alves
+assunto: economia brasileira
+publicado em: 2/2021

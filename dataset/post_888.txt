@@ -1,0 +1,4 @@
+conteudo: Confira algumas oportunidades de emprego em Jaboatão
+autor: Francisco Jose
+assunto: emprego
+publicado em: 3/2021

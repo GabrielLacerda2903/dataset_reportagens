@@ -1,0 +1,4 @@
+conteudo: Barro tem temperatura mínima de 15,9ºC neste sábado, no Ceará
+autor: Maria Clara
+assunto: ceara
+publicado em: 2/2021

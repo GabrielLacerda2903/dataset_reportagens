@@ -1,0 +1,4 @@
+conteudo: Fique ligado em oportunidades de emprego em Goiás
+autor: Hugo Sousa
+assunto: emprego
+publicado em: 7/2021

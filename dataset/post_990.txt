@@ -1,0 +1,4 @@
+conteudo: Mais de 40 vagas de emprego são ofertadas em Maceió
+autor: Douglas Santos
+assunto: emprego
+publicado em: 4/2021

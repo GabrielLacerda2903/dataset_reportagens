@@ -1,0 +1,4 @@
+conteudo: Confira as vagas de emprego disponíveis em Goiás
+autor: Pedro Henrique
+assunto: emprego
+publicado em: 3/2021

@@ -1,0 +1,4 @@
+conteudo: Mais de 60 vagas de emprego são ofertadas em Maceió
+autor: Maria Clara
+assunto: emprego
+publicado em: 3/2021

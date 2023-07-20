@@ -1,0 +1,4 @@
+conteudo: Lançado aplicativo para agilizar denúncias de violação de direitos humanos
+autor: Sebastião Silva
+assunto: direitos humanos
+publicado em: 5/2021

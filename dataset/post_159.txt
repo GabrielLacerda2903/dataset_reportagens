@@ -1,0 +1,4 @@
+conteudo: Estudos realizados em universidade de Aracaju se destacam em ciência e tecnologia
+autor: Sasha Ferreira
+assunto: ciencia e tecnologia
+publicado em: 1/2021

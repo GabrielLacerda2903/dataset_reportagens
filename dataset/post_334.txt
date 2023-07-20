@@ -1,0 +1,4 @@
+conteudo: Empresa de turismo espacial planeja realizar primeira viagem de teste no mês que vem
+autor: Sebastião Silva
+assunto: viagem e turismo
+publicado em: 7/2021

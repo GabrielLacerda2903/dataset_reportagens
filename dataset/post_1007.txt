@@ -1,0 +1,4 @@
+conteudo: Número de animais domésticos abandonados aumenta
+autor: Sasha Ferreira
+assunto: animais domesticos
+publicado em: 1/2021

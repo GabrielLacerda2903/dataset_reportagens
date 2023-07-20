@@ -1,0 +1,4 @@
+conteudo: 'Casa Prática Pets' traz dicas de cuidado com aves de estimação
+autor: Sasha Ferreira
+assunto: animais domesticos
+publicado em: 7/2021

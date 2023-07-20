@@ -1,0 +1,4 @@
+conteudo: Famosos votam para presidente na eleição dos EUA
+autor: Hugo Sousa
+assunto: famosos
+publicado em: 5/2021

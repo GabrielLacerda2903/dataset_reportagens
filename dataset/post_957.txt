@@ -1,0 +1,4 @@
+conteudo: Confira ofertas de emprego em Goiás
+autor: Sasha Ferreira
+assunto: emprego
+publicado em: 3/2021

@@ -1,0 +1,4 @@
+conteudo: Conheça a história do karatê, esporte estreante nos Jogos Olímpicos de Tóquio
+autor: Miguel Angelo
+assunto: jogos olimpicos
+publicado em: 5/2021

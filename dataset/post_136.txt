@@ -1,0 +1,4 @@
+conteudo: RS declara emergência em saúde pública devido à circulação do vírus da febre amarela
+autor: Pedro Henrique
+assunto: saude publica
+publicado em: 2/2021

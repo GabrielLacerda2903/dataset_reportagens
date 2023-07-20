@@ -1,0 +1,4 @@
+conteudo: Inscrições estão abertas para o programa 'Prepara Gastronomia' em Pará de Minas
+autor: Miguel Angelo
+assunto: gastronomia
+publicado em: 7/2021

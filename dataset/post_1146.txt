@@ -1,0 +1,4 @@
+conteudo: Veja histórias do karatê, nova modalidade dos Jogos Olímpicos deste ano
+autor: Sebastião Silva
+assunto: jogos olimpicos
+publicado em: 6/2021

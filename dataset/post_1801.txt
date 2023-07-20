@@ -1,0 +1,4 @@
+conteudo: Aprenda a preparar o famoso "puchero"
+autor: Francisco Jose
+assunto: famosos
+publicado em: 7/2021

@@ -1,0 +1,4 @@
+conteudo: Projeto Fila Zero: parceria quer zerar filas de atendimentos na saúde pública
+autor: Miguel Angelo
+assunto: saude publica
+publicado em: 2/2021

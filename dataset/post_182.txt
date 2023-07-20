@@ -1,0 +1,4 @@
+conteudo: Feira de Ciência, Tecnologia e Inovação do RJ está com inscrições abertas
+autor: Pedro Henrique
+assunto: ciencia e tecnologia
+publicado em: 5/2021

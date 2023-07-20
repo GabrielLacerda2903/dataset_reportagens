@@ -1,0 +1,4 @@
+conteudo: Jogo eletrônico ajuda na recuperação de pacientes que tiveram AVC
+autor: Sebastião Silva
+assunto: jogos eletronicos
+publicado em: 6/2021

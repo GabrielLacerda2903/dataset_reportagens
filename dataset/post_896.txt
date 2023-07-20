@@ -1,0 +1,4 @@
+conteudo: Pernambuco tem 345 vagas de emprego
+autor: Douglas Santos
+assunto: emprego
+publicado em: 3/2021

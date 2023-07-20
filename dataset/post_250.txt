@@ -1,0 +1,4 @@
+conteudo: Datafolha de 5 de novembro para prefeito de SP por sexo, idade, renda, escolaridade, religião e raça
+autor: Hugo Sousa
+assunto: religiao
+publicado em: 1/2021

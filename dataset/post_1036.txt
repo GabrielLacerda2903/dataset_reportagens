@@ -1,0 +1,4 @@
+conteudo: Boi faz sucesso levando vida de animal doméstico
+autor: Sasha Ferreira
+assunto: animais domesticos
+publicado em: 2/2021

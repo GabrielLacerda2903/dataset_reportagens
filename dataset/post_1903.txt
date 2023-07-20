@@ -1,0 +1,4 @@
+conteudo: As notícias do G1 Ceará
+autor: Pedro Henrique
+assunto: ceara
+publicado em: 1/2021

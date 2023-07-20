@@ -1,0 +1,4 @@
+conteudo: Datafolha de 8 de outubro para prefeito de SP por sexo, idade, renda, escolaridade, religião e raça
+autor: Maria Júlia
+assunto: religiao
+publicado em: 6/2021

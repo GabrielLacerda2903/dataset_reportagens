@@ -1,0 +1,4 @@
+conteudo: 'Desigualdade Regional' é o tema da redação do primeiro Enem Digital
+autor: Douglas Santos
+assunto: ciencia e tecnologia
+publicado em: 4/2021

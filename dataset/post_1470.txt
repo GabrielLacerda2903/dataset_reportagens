@@ -1,0 +1,4 @@
+conteudo: 'Prévia' do PIB do Banco Central indica que economia brasileira teve retração de 4,05% em 2020
+autor: Francisco Jose
+assunto: economia brasileira
+publicado em: 1/2021

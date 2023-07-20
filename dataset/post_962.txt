@@ -1,0 +1,4 @@
+conteudo: Emprego: confira as vagas oferecidas em Goiás
+autor: Pedro Henrique
+assunto: emprego
+publicado em: 2/2021

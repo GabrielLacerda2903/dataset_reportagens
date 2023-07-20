@@ -1,0 +1,4 @@
+conteudo: ‘Viúva Negra’, novo filme da Marvel, estreia em cinemas da Paraíba
+autor: Pedro Henrique
+assunto: filmes
+publicado em: 2/2021

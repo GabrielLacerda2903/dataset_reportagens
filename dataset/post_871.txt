@@ -1,0 +1,4 @@
+conteudo: Bauru tem Primeiro Festival Internacional de Música
+autor: Francisco Jose
+assunto: musica internacional
+publicado em: 2/2021

@@ -1,0 +1,4 @@
+conteudo: Projeto da USP São Carlos oferece minicursos sobre jogos eletrônicos
+autor: Sasha Ferreira
+assunto: jogos eletronicos
+publicado em: 3/2021

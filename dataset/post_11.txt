@@ -1,0 +1,4 @@
+conteudo: Prefeitura oferta vagas para Educação de Jovens e Adultos em Porto Velho
+autor: Hugo Sousa
+assunto: educacao
+publicado em: 4/2021

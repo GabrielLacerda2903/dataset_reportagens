@@ -1,0 +1,4 @@
+conteudo: Veja os destaques do G1 Ceará
+autor: Maria Júlia
+assunto: ceara
+publicado em: 6/2021

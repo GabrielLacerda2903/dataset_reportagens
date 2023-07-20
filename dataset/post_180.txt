@@ -1,0 +1,4 @@
+conteudo: UFSCar oferece programação online para 17ª Semana Nacional de Ciência e Tecnologia
+autor: Sasha Ferreira
+assunto: ciencia e tecnologia
+publicado em: 4/2021

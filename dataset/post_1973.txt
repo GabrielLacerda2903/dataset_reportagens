@@ -1,0 +1,4 @@
+conteudo: Mostra de cinema exibe filmes com temática negra e indígena até 20 de junho
+autor: Maria Júlia
+assunto: filmes
+publicado em: 3/2021

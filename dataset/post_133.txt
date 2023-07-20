@@ -1,0 +1,4 @@
+conteudo: Pacientes estão com dificuldade para conseguir atendimento na rede pública de saúde
+autor: Thales Peres
+assunto: saude publica
+publicado em: 2/2021

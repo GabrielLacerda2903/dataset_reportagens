@@ -1,0 +1,4 @@
+conteudo: Veja vagas de emprego disponíveis em Chapecó
+autor: Miguel Angelo
+assunto: emprego
+publicado em: 7/2021

@@ -1,0 +1,4 @@
+conteudo: Série irá mostrar ritmos tradicionais da cultura brasileira
+autor: Francisco Jose
+assunto: cultura brasileira
+publicado em: 5/2021

@@ -1,0 +1,4 @@
+conteudo: Veja o que é destaque no G1 Ceará
+autor: Pedro Henrique
+assunto: ceara
+publicado em: 7/2021

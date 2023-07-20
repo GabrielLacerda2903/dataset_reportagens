@@ -1,0 +1,4 @@
+conteudo: Mais de 50 vagas de emprego são ofertadas em Maceió
+autor: Miguel Angelo
+assunto: emprego
+publicado em: 1/2021

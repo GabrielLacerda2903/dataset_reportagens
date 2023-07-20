@@ -1,0 +1,4 @@
+conteudo: Feira de Ciência, Tecnologia e Inovação está com inscrições abertas para estudantes de todo RJ
+autor: Thales Peres
+assunto: ciencia e tecnologia
+publicado em: 3/2021

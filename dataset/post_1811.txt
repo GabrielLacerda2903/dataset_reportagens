@@ -1,0 +1,4 @@
+conteudo: Monte Rushmore é um dos monumentos mais famosos dos Estados Unidos
+autor: Francisco Jose
+assunto: famosos
+publicado em: 5/2021

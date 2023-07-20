@@ -1,0 +1,4 @@
+conteudo: Estão abertas as inscrições para evento que vai discutir ciência, tecnologia e inovação
+autor: Francisco Jose
+assunto: ciencia e tecnologia
+publicado em: 1/2021

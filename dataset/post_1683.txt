@@ -1,0 +1,4 @@
+conteudo: Alagoas é o estado com o maior número de armas registradas no país
+autor: Joao Paulo Araujo
+assunto: seguranca publica
+publicado em: 3/2021

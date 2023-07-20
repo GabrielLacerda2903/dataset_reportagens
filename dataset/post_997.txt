@@ -1,0 +1,4 @@
+conteudo: Confira as vagas de emprego oferecidas pelo Sine
+autor: Maria Júlia
+assunto: emprego
+publicado em: 2/2021

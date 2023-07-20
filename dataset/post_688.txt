@@ -1,0 +1,4 @@
+conteudo: UFPA oferece uma oficina gratuita sobre o Panorama Setorial da Cultura Brasileira
+autor: Sebastião Silva
+assunto: cultura brasileira
+publicado em: 4/2021

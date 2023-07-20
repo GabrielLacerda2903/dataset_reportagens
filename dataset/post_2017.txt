@@ -1,0 +1,4 @@
+conteudo: Evento de Anime é realizado em Barra do Piraí, no Sul do Rio
+autor: Sebastião Silva
+assunto: animes japoneses
+publicado em: 7/2021

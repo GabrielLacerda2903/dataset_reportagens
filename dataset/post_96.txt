@@ -1,0 +1,4 @@
+conteudo: 'Brinquei com a saúde pública', diz falso médico que prescreveu receita com erro ortográfico
+autor: Douglas Santos
+assunto: saude publica
+publicado em: 5/2021

@@ -1,0 +1,4 @@
+conteudo: Catanduva tem programação em comemoração à Semana do Meio Ambiente
+autor: Sasha Ferreira
+assunto: meio ambiente
+publicado em: 2/2021

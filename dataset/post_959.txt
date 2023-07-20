@@ -1,0 +1,4 @@
+conteudo: Confira vagas de emprego em Goiás
+autor: Thales Peres
+assunto: emprego
+publicado em: 3/2021

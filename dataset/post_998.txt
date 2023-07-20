@@ -1,0 +1,4 @@
+conteudo: Confira as oportunidades de emprego oferecidas em Goiás
+autor: Tiago Calisto
+assunto: emprego
+publicado em: 4/2021

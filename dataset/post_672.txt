@@ -1,0 +1,4 @@
+conteudo: Livro 'Verifique se o Mesmo' aborda a cultura brasileira
+autor: Douglas Santos
+assunto: cultura brasileira
+publicado em: 3/2021

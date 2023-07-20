@@ -1,0 +1,4 @@
+conteudo: 50% dos paranaenses receberam ao menos uma dose da vacina
+autor: Thales Peres
+assunto: vacina
+publicado em: 1/2021

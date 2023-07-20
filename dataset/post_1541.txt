@@ -1,0 +1,4 @@
+conteudo: Equipe do CSA se concentra para competição de jogos eletrônicos
+autor: Hugo Sousa
+assunto: jogos eletronicos
+publicado em: 4/2021

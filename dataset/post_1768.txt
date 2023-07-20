@@ -1,0 +1,4 @@
+conteudo: Diogo Nogueira conversa com Fábio Júdice
+autor: Francisco Jose
+assunto: gastronomia
+publicado em: 3/2021

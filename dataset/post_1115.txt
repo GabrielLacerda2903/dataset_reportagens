@@ -1,0 +1,4 @@
+conteudo: Fadinha do Skate é a mais jovem brasileira nos Jogos Olímpicos
+autor: Douglas Santos
+assunto: jogos olimpicos
+publicado em: 1/2021

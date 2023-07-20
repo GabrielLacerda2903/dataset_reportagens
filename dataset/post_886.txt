@@ -1,0 +1,4 @@
+conteudo: Veja as vagas de emprego do Bom Dia Goiás
+autor: Maria Clara
+assunto: emprego
+publicado em: 7/2021

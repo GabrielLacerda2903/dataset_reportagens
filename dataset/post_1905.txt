@@ -1,0 +1,4 @@
+conteudo: Veja os destaques do Bom Dia Ceará
+autor: Maria Júlia
+assunto: ceara
+publicado em: 5/2021

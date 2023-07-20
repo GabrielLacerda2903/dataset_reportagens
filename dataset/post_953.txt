@@ -1,0 +1,4 @@
+conteudo: Confira as vagas de emprego disponíveis em Cascavel
+autor: Miguel Angelo
+assunto: emprego
+publicado em: 5/2021

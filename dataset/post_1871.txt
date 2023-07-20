@@ -1,0 +1,4 @@
+conteudo: 'Não rejeitamos estrangeiros se forem turistas, cantores ou atletas famosos, rejeitamos se forem pobres'
+autor: Pedro Henrique
+assunto: famosos
+publicado em: 4/2021

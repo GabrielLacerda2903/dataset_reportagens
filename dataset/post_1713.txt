@@ -1,0 +1,4 @@
+conteudo: Colunista Laerte Cerqueira fala sobre os destaques da política
+autor: Pedro Henrique
+assunto: politica brasileira
+publicado em: 3/2021

@@ -1,0 +1,4 @@
+conteudo: Fortaleza tem 100 vagas de emprego em supermercados
+autor: Maria Clara
+assunto: emprego
+publicado em: 1/2021

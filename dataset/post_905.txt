@@ -1,0 +1,4 @@
+conteudo: Veja as oportunidades de emprego disponíveis em Goiás
+autor: Joao Paulo Araujo
+assunto: emprego
+publicado em: 4/2021

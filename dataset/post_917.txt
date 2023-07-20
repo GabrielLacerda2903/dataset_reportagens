@@ -1,0 +1,4 @@
+conteudo: Confira vagas de emprego em Goiás
+autor: Maria Júlia
+assunto: emprego
+publicado em: 1/2021

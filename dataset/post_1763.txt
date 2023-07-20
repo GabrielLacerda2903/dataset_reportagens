@@ -1,0 +1,4 @@
+conteudo: Senac Petrolina realiza oficinas gratuitas nas áreas de gastronomia e beleza
+autor: Maria Clara
+assunto: gastronomia
+publicado em: 1/2021

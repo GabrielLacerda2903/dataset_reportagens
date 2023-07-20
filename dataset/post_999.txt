@@ -1,0 +1,4 @@
+conteudo: Ceará tem 1.027 vagas de emprego disponíveis
+autor: Miguel Angelo
+assunto: emprego
+publicado em: 1/2021

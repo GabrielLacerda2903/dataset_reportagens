@@ -1,0 +1,4 @@
+conteudo: Projeto 'Enfermágicos' promove educação em saúde para pacientes e profissionais do HRBA
+autor: Tiago Calisto
+assunto: educacao
+publicado em: 3/2021

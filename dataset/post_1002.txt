@@ -1,0 +1,4 @@
+conteudo: Confira as oportunidades de emprego na região
+autor: Maria Clara
+assunto: emprego
+publicado em: 7/2021

@@ -1,0 +1,4 @@
+conteudo: Câmara vota projeto que libera transporte de animais domésticos em ônibus de Campinas; regras
+autor: Thales Peres
+assunto: animais domesticos
+publicado em: 7/2021

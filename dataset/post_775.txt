@@ -1,0 +1,4 @@
+conteudo: Nelson Sargento foi um dos principais nomes do samba e da música popular brasileira
+autor: Thales Peres
+assunto: musica popular brasileira
+publicado em: 7/2021

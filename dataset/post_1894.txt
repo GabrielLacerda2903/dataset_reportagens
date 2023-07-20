@@ -1,0 +1,4 @@
+conteudo: Preço da gasolina sobe no Ceará
+autor: Pedro Henrique
+assunto: ceara
+publicado em: 4/2021

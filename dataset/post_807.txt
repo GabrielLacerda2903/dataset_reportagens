@@ -1,0 +1,4 @@
+conteudo: Thiago Delegado é inspirado pelo melhor da Música Popular Brasileira
+autor: Hugo Sousa
+assunto: musica popular brasileira
+publicado em: 1/2021

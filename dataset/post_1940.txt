@@ -1,0 +1,4 @@
+conteudo: 'Viúva Negra' segue na liderança da bilheteria nacional e fatura R$ 6,7 milhões
+autor: Pedro Henrique
+assunto: filmes
+publicado em: 6/2021

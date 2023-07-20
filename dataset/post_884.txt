@@ -1,0 +1,4 @@
+conteudo: Veja as vagas de emprego do Bom Dia Rio Grande
+autor: Joao Paulo Araujo
+assunto: emprego
+publicado em: 5/2021

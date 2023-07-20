@@ -1,0 +1,4 @@
+conteudo: Em 2020, feira de ciências e tecnologias será realizada pela internet
+autor: Thales Peres
+assunto: ciencia e tecnologia
+publicado em: 1/2021

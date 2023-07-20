@@ -1,0 +1,4 @@
+conteudo: Secretaria de Esportes do Estado organiza campeonato de jogos eletrônicos
+autor: Sebastião Silva
+assunto: jogos eletronicos
+publicado em: 3/2021

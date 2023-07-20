@@ -1,0 +1,4 @@
+conteudo: Veja os destaques do Bom Dia Ceará
+autor: Tiago Calisto
+assunto: ceara
+publicado em: 2/2021

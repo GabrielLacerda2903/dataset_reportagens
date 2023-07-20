@@ -1,0 +1,4 @@
+conteudo: Que lugar é esse? Teste seus conhecimentos sobre 10 locais famosos de Caruaru
+autor: Miguel Angelo
+assunto: famosos
+publicado em: 4/2021

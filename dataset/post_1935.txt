@@ -1,0 +1,4 @@
+conteudo: Mostra de filmes traz o passado do Rio e propõe debate sobre descaso com imóveis históricos
+autor: Tiago Calisto
+assunto: filmes
+publicado em: 4/2021

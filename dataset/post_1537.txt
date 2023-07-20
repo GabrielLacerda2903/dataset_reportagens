@@ -1,0 +1,4 @@
+conteudo: 1ª edição dos Jogos Eletrônicos do Ifap é dividida em duas modalidades
+autor: Pedro Henrique
+assunto: jogos eletronicos
+publicado em: 1/2021

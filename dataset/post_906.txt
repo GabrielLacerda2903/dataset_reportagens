@@ -1,0 +1,4 @@
+conteudo: Veja as vagas de emprego ofertadas em Goiás
+autor: Maria Clara
+assunto: emprego
+publicado em: 4/2021

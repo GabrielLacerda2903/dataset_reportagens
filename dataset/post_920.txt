@@ -1,0 +1,4 @@
+conteudo: Aparecida de Goiânia oferece emprego para professores
+autor: Pedro Henrique
+assunto: emprego
+publicado em: 4/2021

@@ -1,0 +1,4 @@
+conteudo: Chef de cozinha de Franca é uma das finalistas do concurso de gastronomia 'Tá combinado'
+autor: Maria Clara
+assunto: gastronomia
+publicado em: 3/2021

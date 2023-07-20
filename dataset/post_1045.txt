@@ -1,0 +1,4 @@
+conteudo: Programa distribui uma tonelada de ração para entidades que cuidam de animais, em Cascavel
+autor: Sebastião Silva
+assunto: animais domesticos
+publicado em: 7/2021

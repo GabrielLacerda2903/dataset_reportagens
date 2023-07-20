@@ -1,0 +1,4 @@
+conteudo: Em Cena: veja os filmes que chegam aos cinemas da região nesta quinta-feira
+autor: Pedro Henrique
+assunto: filmes
+publicado em: 3/2021

@@ -1,0 +1,4 @@
+conteudo: Veja as vagas de emprego ofertadas em Goiânia
+autor: Hugo Sousa
+assunto: emprego
+publicado em: 3/2021

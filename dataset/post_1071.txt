@@ -1,0 +1,4 @@
+conteudo: Campanhas arrecadam medicamentos e agasalhos para cães e gatos em Uberaba
+autor: Pedro Henrique
+assunto: animais domesticos
+publicado em: 4/2021

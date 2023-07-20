@@ -1,0 +1,4 @@
+conteudo: Confira as vagas de emprego no PAT de Itapetininga
+autor: Francisco Jose
+assunto: emprego
+publicado em: 6/2021

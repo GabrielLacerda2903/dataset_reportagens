@@ -1,0 +1,4 @@
+conteudo: Confira as vagas de emprego disponíveis em Goiás
+autor: Miguel Angelo
+assunto: emprego
+publicado em: 4/2021

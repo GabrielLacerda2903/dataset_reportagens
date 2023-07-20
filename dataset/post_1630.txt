@@ -1,0 +1,4 @@
+conteudo: As notícias das segurança pública
+autor: Pedro Henrique
+assunto: seguranca publica
+publicado em: 6/2021

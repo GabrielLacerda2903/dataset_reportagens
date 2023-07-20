@@ -1,0 +1,4 @@
+conteudo: Alunos de gastronomia fazem projeto no Monte Serrat, em Santos
+autor: Thales Peres
+assunto: gastronomia
+publicado em: 3/2021

@@ -1,0 +1,4 @@
+conteudo: Veja o que é destaque no G1 Ceará
+autor: Joao Paulo Araujo
+assunto: ceara
+publicado em: 2/2021

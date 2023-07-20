@@ -1,0 +1,4 @@
+conteudo: 'Prévia' do PIB do BC indica que economia brasileira cresceu 0,24% em janeiro
+autor: Thales Peres
+assunto: economia brasileira
+publicado em: 1/2021

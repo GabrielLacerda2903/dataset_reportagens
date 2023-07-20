@@ -1,0 +1,4 @@
+conteudo: Economistas falam sobre PIB e sobre o que esperar da economia brasileira
+autor: Miguel Angelo
+assunto: economia brasileira
+publicado em: 6/2021

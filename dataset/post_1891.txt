@@ -1,0 +1,4 @@
+conteudo: A situação da vacinação no Ceará
+autor: Teodora Alves
+assunto: ceara
+publicado em: 6/2021

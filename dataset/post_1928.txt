@@ -1,0 +1,4 @@
+conteudo: Borba Gato: veja livros e filmes para entender a história dele e dos bandeirantes
+autor: Thales Peres
+assunto: filmes
+publicado em: 5/2021

@@ -1,0 +1,4 @@
+conteudo: É #FAKE que presidente da Anvisa disse que população corre risco ao tomar vacinas experimentais
+autor: Miguel Angelo
+assunto: vacina
+publicado em: 2/2021

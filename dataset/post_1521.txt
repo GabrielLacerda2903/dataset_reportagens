@@ -1,0 +1,4 @@
+conteudo: 'Prévia' do PIB do Banco Central indica que economia brasileira cresceu 0,89% em 2019
+autor: Douglas Santos
+assunto: economia brasileira
+publicado em: 4/2021

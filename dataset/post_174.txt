@@ -1,0 +1,4 @@
+conteudo: Começa 'Semana Nacional de Ciência e Tecnologia' no Maranhão
+autor: Miguel Angelo
+assunto: ciencia e tecnologia
+publicado em: 4/2021

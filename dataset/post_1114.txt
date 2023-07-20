@@ -1,0 +1,4 @@
+conteudo: Triatleta de Araras compete nos Jogos Olimpícos de Tóquio
+autor: Francisco Jose
+assunto: jogos olimpicos
+publicado em: 2/2021
